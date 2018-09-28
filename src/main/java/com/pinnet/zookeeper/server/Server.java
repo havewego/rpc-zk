@@ -1,4 +1,4 @@
-package com.pinnet.zookeeper.Server;
+package com.pinnet.zookeeper.server;
 
 import com.pinnet.zookeeper.bean.RpcBeanFactory;
 import com.pinnet.zookeeper.data.RpcRequest;
