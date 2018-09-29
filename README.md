@@ -4,4 +4,4 @@
 #                tcp远程调用获取结果
 # 本代码只用于学习rpc的基本原理，不能用于其他作用
 # zookeeper下载地址：https://archive.apache.org/dist/zookeeper/zookeeper-3.4.13/zookeeper-3.4.13.tar.gz
-# zkui下载地址：
+# zkui下载地址：https://github.com/lilin409546297/zkui
